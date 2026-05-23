@@ -1,12 +1,10 @@
 <p align="center">
-  <img src="Data/1.png"/>
+  <img src="Data/4.png"/>
 </p>
 
 <h1 align="center">
-  <img src="Data/4.png"/>
+  <img src="Data/1.png"/>
 </h1>
-
-# RL-Enhanced Stochastic State Estimation Framework with EKF-PID Control for Efficient Mapping in Low-Cost Swarm Robotic Systems
 
 > **StochBots** — A hybrid RL + EKF + PID framework for autonomous, low-cost swarm robotics with real-time environmental mapping.
 
